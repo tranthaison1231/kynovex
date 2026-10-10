@@ -559,7 +559,7 @@
         <a href="#products">Products</a>
         <a href="#services">Services</a>
         <a href="#approach">Our approach</a>
-        <a href="#about">About Kynovex</a>
+        <a href="#about">About Us</a>
         <a href="#contact">Contact</a>
       </nav>
       <a class="header-cta" href="mailto:son.tran@kynovex.dev">Get in touch <span aria-hidden="true">↗</span></a>
@@ -1491,11 +1491,11 @@
       intro.from('.hero-copy .eyebrow', { y: 14, autoAlpha: 0, duration: .65 })
         .from('.hero h1', { y: 28, autoAlpha: 0, duration: .9 }, '-=.4')
         .from('.hero-intro', { y: 16, autoAlpha: 0, duration: .7 }, '-=.55')
-        .from('.hero-actions > *', { y: 14, autoAlpha: 0, duration: .55, stagger: .1 }, '-=.45')
+        .fromTo('.hero-actions > *', { y: 14 }, { y: 0, duration: .55, stagger: .1, clearProps: 'transform' }, '-=.45')
         .from('.hero-note', { x: -10, autoAlpha: 0, duration: .5 }, '-=.35')
         .from('.core-stage-art', { y: 24, scale: .94, autoAlpha: 0, duration: 1.1, ease: 'power2.out' }, '-=1.2')
         .from('.core-badge', { scale: .72, autoAlpha: 0, duration: .72, ease: 'back.out(1.8)' }, '-=.7')
-        .from('.orbit-chip', { y: 16, autoAlpha: 0, duration: .65, stagger: .11 }, '-=.55')
+        .fromTo('.orbit-chip', { y: 16, autoAlpha: 0 }, { y: 0, autoAlpha: 1, duration: .65, stagger: .11, clearProps: 'transform,opacity,visibility' }, '-=.55')
         .from('.art-caption', { autoAlpha: 0, duration: .5 }, '-=.25');
 
       gsap.utils.toArray('.reveal:not(.product-card):not(.service-card):not(.approach-card)').forEach((element) => {
@@ -1562,8 +1562,7 @@
       });
 
       gsap.to('.core-stage', { y: -6, duration: 3.8, ease: 'sine.inOut', yoyo: true, repeat: -1 });
-      gsap.to('.chip-a, .chip-c', { y: -5, duration: 3.8, ease: 'sine.inOut', yoyo: true, repeat: -1, stagger: .65 });
-      gsap.to('.chip-b, .chip-d', { y: 5, duration: 4.2, ease: 'sine.inOut', yoyo: true, repeat: -1, stagger: .8 });
+      gsap.to('.orbit-node', { opacity: .45, scale: 1.55, transformOrigin: '50% 50%', duration: 2.4, ease: 'sine.inOut', yoyo: true, repeat: -1, stagger: .4 });
     })();
   </script>
 </body>
