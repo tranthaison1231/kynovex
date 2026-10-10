@@ -1,0 +1,68 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e3]:
+      - link "Kynovex — back to top" [ref=e4] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e6]:
+          - generic [ref=e7]: Kynovex
+          - generic [ref=e8]: SOFTWARE STUDIO
+      - navigation "Main navigation" [ref=e9]:
+        - link "Products" [ref=e10] [cursor=pointer]:
+          - /url: "#products"
+        - link "Services" [ref=e11] [cursor=pointer]:
+          - /url: "#services"
+        - link "Our approach" [ref=e12] [cursor=pointer]:
+          - /url: "#approach"
+        - link "About Us" [ref=e13] [cursor=pointer]:
+          - /url: "#about"
+        - link "Contact" [ref=e14] [cursor=pointer]:
+          - /url: "#contact"
+      - link "Get in touch" [ref=e15] [cursor=pointer]:
+        - /url: mailto:son.tran@kynovex.dev
+        - text: Get in touch
+        - generic [aria-hidden] [ref=e16]: ↗
+  - main [ref=e17]:
+    - region "Thoughtful software. Real-world impact." [ref=e18]:
+      - generic [ref=e19]:
+        - paragraph [ref=e20]: A software studio with a human side
+        - generic [ref=e21]:
+          - link "Explore our products" [ref=e22] [cursor=pointer]:
+            - /url: "#products"
+            - text: Explore our products
+            - generic [aria-hidden] [ref=e23]: ↗
+          - link "Our story" [ref=e24] [cursor=pointer]:
+            - /url: "#about"
+            - text: Our story
+            - generic [aria-hidden] [ref=e25]: →
+      - group "Kynovex visual with links to intelligence, people, products and continuous improvement" [ref=e26]
+    - region "What we believe" [ref=e27]:
+      - generic [ref=e28]: GOOD IDEAS. THOUGHTFUL EXECUTION.
+    - region "Small tools. Meaningful impact." [ref=e30]
+    - region "Technology that moves your work forward." [ref=e32]
+    - region "Your idea. Our attention to detail." [ref=e35]
+    - region "Technology is our tool. People are the reason." [ref=e38]
+    - region "Have an idea? Let’s make it real." [ref=e39]:
+      - link "Start a conversation" [ref=e40] [cursor=pointer]:
+        - /url: mailto:son.tran@kynovex.dev
+        - text: Start a conversation
+        - generic [aria-hidden] [ref=e41]: ↗
+  - contentinfo [ref=e42]:
+    - generic [ref=e43]:
+      - link "Kynovex — back to top" [ref=e44] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e46]:
+          - generic [ref=e47]: Kynovex
+          - generic [ref=e48]: SOFTWARE STUDIO
+      - generic [ref=e49]: Thoughtful software for real life.
+      - navigation "Product links and contact" [ref=e50]:
+        - link "Smart Stock ↗" [ref=e51] [cursor=pointer]:
+          - /url: https://smart-stock.pages.dev/
+        - link "EB3VIET ↗" [ref=e52] [cursor=pointer]:
+          - /url: https://eb3viet.com/
+        - link "Contact ↗" [ref=e53] [cursor=pointer]:
+          - /url: mailto:son.tran@kynovex.dev
+        - link "Back to top ↑" [ref=e54] [cursor=pointer]:
+          - /url: "#top"
+    - generic [ref=e55]:
+      - generic [ref=e56]: © 2026 Kynovex. All rights reserved.
+      - generic [ref=e57]: Digital products, built with care.
