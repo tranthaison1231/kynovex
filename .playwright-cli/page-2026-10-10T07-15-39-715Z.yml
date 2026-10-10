@@ -1,0 +1,83 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Điều hướng chính" [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link "Smart Stock Đầu tư sáng suốt" [ref=e7] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e8]:
+              - generic [ref=e9]: Smart Stock
+              - generic [ref=e10]: Đầu tư sáng suốt
+          - generic [ref=e11]:
+            - generic [ref=e12]: Tìm cổ phiếu hoặc doanh nghiệp
+            - combobox "Tìm cổ phiếu hoặc doanh nghiệp" [ref=e17]
+        - generic [ref=e19]:
+          - generic [ref=e20]: Không gian đầu tư
+          - list [ref=e22]:
+            - listitem [ref=e23]:
+              - link "Tổng quan" [ref=e24] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e31]:
+              - link "Tin Tức" [ref=e32] [cursor=pointer]:
+                - /url: /news
+            - listitem [ref=e37]:
+              - link "Góc Nhìn" [ref=e38] [cursor=pointer]:
+                - /url: /market-view
+            - listitem [ref=e43]:
+              - link "Sự Kiện" [ref=e44] [cursor=pointer]:
+                - /url: /events
+            - listitem [ref=e48]:
+              - link "Lịch Kinh Tế" [ref=e49] [cursor=pointer]:
+                - /url: /economic-calendar
+            - listitem [ref=e53]:
+              - link "Trợ lý AI" [ref=e54] [cursor=pointer]:
+                - /url: /ai-assistant
+            - listitem [ref=e59]:
+              - link "Báo cáo" [ref=e60] [cursor=pointer]:
+                - /url: /reports
+            - listitem [ref=e66]:
+              - link "Kiến thức" [ref=e67] [cursor=pointer]:
+                - /url: /knowledge
+        - generic [ref=e72]:
+          - button "Đăng nhập" [ref=e73] [cursor=pointer]
+          - button "Cài đặt" [ref=e75] [cursor=pointer]
+        - separator "Thay đổi độ rộng thanh bên" [ref=e76]
+    - main [ref=e77]:
+      - main [ref=e78]:
+        - generic [ref=e79]:
+          - generic [ref=e84]:
+            - heading "Sự kiện doanh nghiệp" [level=1] [ref=e85]
+            - paragraph [ref=e86]: Theo dõi các mốc công bố và hành động doanh nghiệp của mã cổ phiếu bạn quan tâm.
+          - generic [ref=e88]:
+            - generic [ref=e89]: Mã theo dõi
+            - button "Chỉnh sửa mã theo dõi, chưa chọn mã nào" [ref=e90] [cursor=pointer]:
+              - generic [ref=e91]: Thêm mã theo dõi
+              - generic [ref=e93]: 0 mã
+          - generic [ref=e95]:
+            - generic [ref=e96]:
+              - button "Hôm nay" [ref=e97] [cursor=pointer]
+              - button "Chuyển đến tuần trước" [ref=e98] [cursor=pointer]
+              - button "Chuyển đến tuần tiếp theo" [ref=e99] [cursor=pointer]
+            - generic "Chế độ xem lịch" [ref=e100]:
+              - button "Tuần" [pressed] [ref=e101] [cursor=pointer]
+              - button "Tháng" [ref=e102] [cursor=pointer]
+          - region "Lịch sự kiện doanh nghiệp" [ref=e103]:
+            - generic [ref=e105]:
+              - generic [ref=e106]:
+                - generic [ref=e107]: Thứ 2
+                - generic [ref=e108]: Thứ 3
+                - generic [ref=e109]: Thứ 4
+                - generic [ref=e110]: Thứ 5
+                - generic [ref=e111]: Thứ 6
+                - generic [ref=e112]: Thứ 7
+                - generic [ref=e113]: Chủ nhật
+              - generic [ref=e114]:
+                - button "Ngày 5 tháng 10, 0 sự kiện" [ref=e117] [cursor=pointer]: "5"
+                - button "Ngày 6 tháng 10, 0 sự kiện" [ref=e120] [cursor=pointer]: "6"
+                - button "Ngày 7 tháng 10, 0 sự kiện" [ref=e123] [cursor=pointer]: "7"
+                - button "Ngày 8 tháng 10, 0 sự kiện" [ref=e126] [cursor=pointer]: "8"
+                - button "Ngày 9 tháng 10, 0 sự kiện" [ref=e129] [cursor=pointer]: "9"
+                - button "Ngày 10 tháng 10, 0 sự kiện" [ref=e132] [cursor=pointer]: "10"
+                - button "Ngày 11 tháng 10, 0 sự kiện" [ref=e135] [cursor=pointer]: "11"
+            - status [ref=e137]: Thêm mã cổ phiếu để xem lịch sự kiện.
+  - region "Thông báo alt+T"

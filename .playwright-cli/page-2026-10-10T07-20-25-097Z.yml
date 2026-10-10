@@ -1,0 +1,18 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - main "Loading page" [ref=e3]:
+    - generic [ref=e4]:
+      - status "Loading" [ref=e5]
+      - paragraph [ref=e9]: Loading
+  - alert [ref=e10]
+  - dialog "Cookie consent" [ref=e11]:
+    - paragraph [ref=e12]: Cookies & privacy
+    - paragraph [ref=e13]:
+      - text: We use cookies for analytics and marketing only with your consent. Strictly necessary cookies are always on.
+      - link "Cookie policy" [ref=e14] [cursor=pointer]:
+        - /url: /cookies
+    - generic [ref=e15]:
+      - button "Accept all" [ref=e16]
+      - button "Reject all" [ref=e18]
+      - button "Customize" [ref=e20] [cursor=pointer]

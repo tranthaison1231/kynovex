@@ -1,0 +1,827 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - navigation "Điều hướng chính" [ref=e3]:
+      - link "E3 EB3VIET eb3viet.com" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e6]: E3
+        - generic [ref=e7]:
+          - generic [ref=e8]: EB3VIET
+          - generic [ref=e9]: eb3viet.com
+      - button "🔍 Tìm kiếm... ⌘K" [ref=e11]:
+        - generic [ref=e12]: 🔍
+        - generic [ref=e13]: Tìm kiếm...
+        - generic [ref=e14]: ⌘K
+      - list [ref=e16]:
+        - listitem [ref=e17]:
+          - button "Tổng Quan" [expanded] [ref=e18]:
+            - generic [aria-hidden] [ref=e20]: ▲
+          - list [ref=e21]:
+            - listitem [ref=e22]:
+              - link "Trang Chủ" [ref=e23] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e25]:
+              - link "Bắt Đầu Từ Đây" [ref=e26] [cursor=pointer]:
+                - /url: /start
+            - listitem [ref=e28]:
+              - link "So Sánh Bang & Ngành" [ref=e29] [cursor=pointer]:
+                - /url: /compare
+            - listitem [ref=e31]:
+              - link "Giới Thiệu EB3VIET" [ref=e32] [cursor=pointer]:
+                - /url: /about
+        - listitem [ref=e34]:
+          - button "Quy Trình EB-3" [ref=e35]:
+            - generic [aria-hidden] [ref=e37]: ▼
+        - listitem [ref=e38]:
+          - button "Theo Dõi & Tin Tức" [ref=e39]:
+            - generic [aria-hidden] [ref=e41]: ▼
+        - listitem [ref=e42]:
+          - button "Mới Đến Mỹ" [ref=e43]:
+            - generic [aria-hidden] [ref=e45]: ▼
+        - listitem [ref=e46]:
+          - button "Tài Chính" [ref=e47]:
+            - generic [aria-hidden] [ref=e49]: ▼
+        - listitem [ref=e50]:
+          - button "Thẻ Xanh & Quốc Tịch" [ref=e51]:
+            - generic [aria-hidden] [ref=e53]: ▼
+        - listitem [ref=e54]:
+          - button "Bằng Lái Xe" [ref=e55]:
+            - generic [aria-hidden] [ref=e57]: ▼
+      - generic [ref=e58]:
+        - paragraph [ref=e59]: Ủng hộ dự án
+        - link "💙 Donate qua PayPal" [ref=e60] [cursor=pointer]:
+          - /url: https://www.paypal.com/ncp/payment/745UHBNRA4MHC
+          - generic [ref=e61]: 💙
+          - generic [ref=e62]: Donate qua PayPal
+        - paragraph [ref=e63]: Giúp duy trì website miễn phí
+    - main [ref=e64]:
+      - generic [ref=e68]:
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - generic [ref=e72]:
+              - generic [ref=e73]: 🇺🇸 EB-3 Other Workers
+              - generic [ref=e74]: 🇻🇳 Dành cho người Việt Nam
+            - heading "EB3VIET — Cổng thông tin định cư lao động Mỹ" [level=1] [ref=e75]: EB3VIET — Cổng thông tinđịnh cư lao động Mỹ
+            - paragraph [ref=e76]: Tổng hợp Visa Bulletin, quy trình EB-3, tin tức chính sách và hướng dẫn thực tế dành cho người Việt Nam theo diện lao động EB-3 Other Workers.
+            - generic [ref=e77]:
+              - link "📅 Visa Bulletin" [ref=e78] [cursor=pointer]:
+                - /url: /visa-bulletin
+              - link "📖 Hướng dẫn EB-3" [ref=e79] [cursor=pointer]:
+                - /url: /guides
+              - link "✨ Bắt đầu từ đây" [ref=e80] [cursor=pointer]:
+                - /url: /start
+          - generic [ref=e81]:
+            - link "📋 Quy Trình EB-3 Hướng dẫn từng bước →" [ref=e82] [cursor=pointer]:
+              - /url: /guides
+              - generic [ref=e83]: 📋
+              - generic [ref=e84]:
+                - generic [ref=e85]: Quy Trình EB-3
+                - generic [ref=e86]: Hướng dẫn từng bước
+              - generic [ref=e87]: →
+            - link "📡 Theo Dõi & Tin Tức Visa Bulletin · PERM · Tin tức →" [ref=e88] [cursor=pointer]:
+              - /url: /visa-bulletin
+              - generic [ref=e89]: 📡
+              - generic [ref=e90]:
+                - generic [ref=e91]: Theo Dõi & Tin Tức
+                - generic [ref=e92]: Visa Bulletin · PERM · Tin tức
+              - generic [ref=e93]: →
+            - link "🇺🇸 Mới Đến Mỹ Cuộc sống đầu tiên tại Mỹ →" [ref=e94] [cursor=pointer]:
+              - /url: /after-arrival
+              - generic [ref=e95]: 🇺🇸
+              - generic [ref=e96]:
+                - generic [ref=e97]: Mới Đến Mỹ
+                - generic [ref=e98]: Cuộc sống đầu tiên tại Mỹ
+              - generic [ref=e99]: →
+            - link "🛠️ Các Tiện Ích Khác Bằng lái · Tài chính · Thẻ xanh →" [ref=e100] [cursor=pointer]:
+              - /url: /bmv
+              - generic [ref=e101]: 🛠️
+              - generic [ref=e102]:
+                - generic [ref=e103]: Các Tiện Ích Khác
+                - generic [ref=e104]: Bằng lái · Tài chính · Thẻ xanh
+              - generic [ref=e105]: →
+        - generic [ref=e106]:
+          - generic [ref=e107]: 🧭 Bạn đang ở giai đoạn nào? — Chọn để xem hướng dẫn và công cụ phù hợp nhất.
+          - link "Chọn ngay →" [ref=e108] [cursor=pointer]:
+            - /url: /start
+        - generic [ref=e109]:
+          - generic [ref=e110]:
+            - generic [ref=e111]:
+              - generic [ref=e112]: 📅
+              - generic [ref=e113]: Visa Bulletin — EB-3 EW (ROW) · FY2027
+              - generic [ref=e114]: LIVE
+            - link "Dashboard đầy đủ →" [ref=e115] [cursor=pointer]:
+              - /url: /visa-bulletin
+          - generic [ref=e116]:
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - generic [ref=e119]: Bảng A — FY2027
+                - generic [ref=e120]: 1-Jan-2022
+                - generic [ref=e121]: Final Action Date
+              - generic [ref=e122]:
+                - generic [ref=e123]: Bảng B — FY2027
+                - generic [ref=e124]: 1-Jun-2022
+                - generic [ref=e125]: Dates for Filing
+              - generic [ref=e126]:
+                - generic [ref=e127]: Net Δ FY2027 (Bảng A)
+                - generic [ref=e128]: +-3m 0d
+                - generic [ref=e129]: từ đầu năm tài chính
+              - generic [ref=e130]:
+                - generic [ref=e131]: Net Δ FY2027 (Bảng B)
+                - generic [ref=e132]: +-2m 0d
+                - generic [ref=e133]: từ đầu năm tài chính
+            - generic [ref=e134]:
+              - paragraph [ref=e135]: 6 tháng gần nhất — Bảng A (Final Action Date)
+              - generic [ref=e136]:
+                - generic [ref=e137]:
+                  - generic [ref=e138]: Apr-27
+                  - generic [ref=e139]: —
+                  - generic [ref=e140]: — Giữ
+                - generic [ref=e141]:
+                  - generic [ref=e142]: May-27
+                  - generic [ref=e143]: —
+                  - generic [ref=e144]: — Giữ
+                - generic [ref=e145]:
+                  - generic [ref=e146]: Jun-27
+                  - generic [ref=e147]: —
+                  - generic [ref=e148]: — Giữ
+                - generic [ref=e149]:
+                  - generic [ref=e150]: Jul-27
+                  - generic [ref=e151]: —
+                  - generic [ref=e152]: — Giữ
+                - generic [ref=e153]:
+                  - generic [ref=e154]: Aug-27
+                  - generic [ref=e155]: —
+                  - generic [ref=e156]: — Giữ
+                - generic [ref=e157]:
+                  - generic [ref=e158]: Sep-27
+                  - generic [ref=e159]: —
+                  - generic [ref=e160]: — Giữ
+            - generic [ref=e161]:
+              - paragraph [ref=e162]: 📈 Xu hướng Priority Date — Bảng A (xanh đậm) · Bảng B (xanh nhạt)
+              - application [ref=e166]:
+                - generic [ref=e181]:
+                  - generic [ref=e182]: Oct-26
+                  - generic [ref=e184]: Jan-27
+                  - generic [ref=e186]: Apr-27
+                  - generic [ref=e188]: Jul-27
+            - paragraph [ref=e190]: "Cập nhật: 30/09/2026 · Nguồn: travel.state.gov"
+        - generic [ref=e191]:
+          - generic [ref=e192]:
+            - generic [ref=e193]: 📧
+            - generic [ref=e194]: Nhận Thông Báo Visa Bulletin
+          - paragraph [ref=e195]: Email miễn phí mỗi tháng khi Priority Date EB-3 EW (ROW) thay đổi.
+          - generic [ref=e196]:
+            - textbox "email@example.com" [ref=e197]
+            - button "Đăng Ký" [ref=e198]
+        - generic [ref=e199]:
+          - generic [ref=e200]:
+            - generic [ref=e201]:
+              - generic [ref=e202]: 📊
+              - generic [ref=e203]: PERM Processing Times — DOL
+              - generic [ref=e204]: LIVE
+            - link "Chi tiết →" [ref=e205] [cursor=pointer]:
+              - /url: /perm-tracker
+          - generic [ref=e206]:
+            - generic [ref=e207]:
+              - generic [ref=e208]:
+                - generic [ref=e209]: Analyst Review
+                - generic [ref=e210]: January 2025
+                - generic [ref=e211]: hồ sơ thường
+              - generic [ref=e212]:
+                - generic [ref=e213]: Audit Review
+                - generic [ref=e214]: December 2025
+                - generic [ref=e215]: hồ sơ bị audit
+              - generic [ref=e216]:
+                - generic [ref=e217]: Reconsideration
+                - generic [ref=e218]: November 2025
+                - generic [ref=e219]: khiếu nại
+            - generic [ref=e220]:
+              - paragraph [ref=e221]: Thời gian xử lý trung bình
+              - generic [ref=e223]:
+                - generic [ref=e224]: Analyst Review
+                - generic [ref=e225]: 501 ngày (~17 tháng)
+              - generic [ref=e229]:
+                - generic [ref=e230]: Audit Review
+                - generic [ref=e231]: 343 ngày (~11 tháng)
+            - paragraph [ref=e234]: "Tính đến: 04/23/2026 · Cập nhật: 10/07/2026 · Nguồn: flag.dol.gov"
+        - generic [ref=e235]:
+          - generic [ref=e236]:
+            - generic [ref=e237]: 🧮
+            - generic [ref=e238]: Tính Khoảng Cách Priority Date
+          - generic [ref=e239]:
+            - generic [ref=e240]:
+              - generic [ref=e241]: Priority Date của bạn (từ thư PERM/I-140)
+              - textbox "Priority Date của bạn (từ thư PERM/I-140)" [ref=e242]
+              - paragraph [ref=e243]: Ngày nộp đơn LC (PERM) lên DOL — ghi trên thư phê duyệt ETA-9089.
+            - generic [ref=e244]: Đang tải dữ liệu VB...
+            - paragraph [ref=e245]:
+              - text: Bảng A = ngày được gọi phỏng vấn / nộp I-485 · Bảng B = ngày nộp I-485 trước (nếu USCIS cho phép) ·
+              - link "Xem VB đầy đủ →" [ref=e246] [cursor=pointer]:
+                - /url: /visa-bulletin
+        - generic [ref=e247]:
+          - generic [ref=e248]:
+            - heading "📚 Toàn Bộ Nội Dung" [level=2] [ref=e249]
+            - generic [ref=e250]: 64 trang · 7 nhóm
+          - generic [ref=e251]:
+            - generic [ref=e252]:
+              - generic [ref=e253]:
+                - generic [ref=e254]: 🏠
+                - generic [ref=e255]: Tổng Quan
+                - generic [ref=e256]: "4"
+              - list [ref=e257]:
+                - listitem [ref=e258]:
+                  - link "› Trang Chủ" [ref=e259] [cursor=pointer]:
+                    - /url: /
+                    - generic [ref=e260]: ›
+                    - generic [ref=e261]: Trang Chủ
+                - listitem [ref=e262]:
+                  - link "› Bắt Đầu Từ Đây" [ref=e263] [cursor=pointer]:
+                    - /url: /start
+                    - generic [ref=e264]: ›
+                    - generic [ref=e265]: Bắt Đầu Từ Đây
+                - listitem [ref=e266]:
+                  - link "› So Sánh Bang & Ngành" [ref=e267] [cursor=pointer]:
+                    - /url: /compare
+                    - generic [ref=e268]: ›
+                    - generic [ref=e269]: So Sánh Bang & Ngành
+                - listitem [ref=e270]:
+                  - link "› Giới Thiệu EB3VIET" [ref=e271] [cursor=pointer]:
+                    - /url: /about
+                    - generic [ref=e272]: ›
+                    - generic [ref=e273]: Giới Thiệu EB3VIET
+            - generic [ref=e274]:
+              - generic [ref=e275]:
+                - generic [ref=e276]: 📋
+                - generic [ref=e277]: Quy Trình EB-3
+                - generic [ref=e278]: "14"
+              - list [ref=e279]:
+                - listitem [ref=e280]:
+                  - link "› Hướng Dẫn 5 Bước" [ref=e281] [cursor=pointer]:
+                    - /url: /guides
+                    - generic [ref=e282]: ›
+                    - generic [ref=e283]: Hướng Dẫn 5 Bước
+                - listitem [ref=e284]:
+                  - link "› Ngành Nghề & Hãng" [ref=e285] [cursor=pointer]:
+                    - /url: /jobs
+                    - generic [ref=e286]: ›
+                    - generic [ref=e287]: Ngành Nghề & Hãng
+                - listitem [ref=e288]:
+                  - link "› Chọn Agency" [ref=e289] [cursor=pointer]:
+                    - /url: /agency-guide
+                    - generic [ref=e290]: ›
+                    - generic [ref=e291]: Chọn Agency
+                - listitem [ref=e292]:
+                  - link "› Tiếng Anh & CV" [ref=e293] [cursor=pointer]:
+                    - /url: /english-work
+                    - generic [ref=e294]: ›
+                    - generic [ref=e295]: Tiếng Anh & CV
+                - listitem [ref=e296]:
+                  - link "› Checklist Hồ Sơ" [ref=e297] [cursor=pointer]:
+                    - /url: /documents
+                    - generic [ref=e298]: ›
+                    - generic [ref=e299]: Checklist Hồ Sơ
+                - listitem [ref=e300]:
+                  - link "› PERM & I-140" [ref=e301] [cursor=pointer]:
+                    - /url: /perm-i140-guide
+                    - generic [ref=e302]: ›
+                    - generic [ref=e303]: PERM & I-140
+                - listitem [ref=e304]:
+                  - link "› Hướng Dẫn DS-260" [ref=e305] [cursor=pointer]:
+                    - /url: /ds260-guide
+                    - generic [ref=e306]: ›
+                    - generic [ref=e307]: Hướng Dẫn DS-260
+                - listitem [ref=e308]:
+                  - link "› Khám Sức Khỏe I-693" [ref=e309] [cursor=pointer]:
+                    - /url: /medical-exam-guide
+                    - generic [ref=e310]: ›
+                    - generic [ref=e311]: Khám Sức Khỏe I-693
+                - listitem [ref=e312]:
+                  - link "› Ôn Phỏng Vấn" [ref=e313] [cursor=pointer]:
+                    - /url: /interview
+                    - generic [ref=e314]: ›
+                    - generic [ref=e315]: Ôn Phỏng Vấn
+                - listitem [ref=e316]:
+                  - link "› Phỏng Vấn AOS & I-693" [ref=e317] [cursor=pointer]:
+                    - /url: /aos-interview-guide
+                    - generic [ref=e318]: ›
+                    - generic [ref=e319]: Phỏng Vấn AOS & I-693
+                  - generic [ref=e320]:
+                    - link "I-485 vs Lãnh Sự" [ref=e321] [cursor=pointer]:
+                      - /url: /aos-interview-guide
+                    - link "Khám I-693" [ref=e322] [cursor=pointer]:
+                      - /url: /aos-interview-guide
+                    - link "Phỏng Vấn USCIS" [ref=e323] [cursor=pointer]:
+                      - /url: /aos-interview-guide
+                    - link "+1 nữa" [ref=e324] [cursor=pointer]:
+                      - /url: /aos-interview-guide
+                - listitem [ref=e325]:
+                  - link "› Chuẩn Bị Trước Khi Bay" [ref=e326] [cursor=pointer]:
+                    - /url: /pre-departure-guide
+                    - generic [ref=e327]: ›
+                    - generic [ref=e328]: Chuẩn Bị Trước Khi Bay
+                - listitem [ref=e329]:
+                  - link "› Đổi Việc AC21" [ref=e330] [cursor=pointer]:
+                    - /url: /ac21-portability
+                    - generic [ref=e331]: ›
+                    - generic [ref=e332]: Đổi Việc AC21
+                  - generic [ref=e333]:
+                    - link "AC21 Là Gì" [ref=e334] [cursor=pointer]:
+                      - /url: /ac21-portability
+                    - link "Việc Tương Tự" [ref=e335] [cursor=pointer]:
+                      - /url: /ac21-portability
+                    - link "Quy Trình Đổi" [ref=e336] [cursor=pointer]:
+                      - /url: /ac21-portability
+                    - link "+1 nữa" [ref=e337] [cursor=pointer]:
+                      - /url: /ac21-portability
+                - listitem [ref=e338]:
+                  - link "› Employer Đóng Cửa / Sa Thải" [ref=e339] [cursor=pointer]:
+                    - /url: /sponsor-change-guide
+                    - generic [ref=e340]: ›
+                    - generic [ref=e341]: Employer Đóng Cửa / Sa Thải
+                - listitem [ref=e342]:
+                  - link "› Case Studies" [ref=e343] [cursor=pointer]:
+                    - /url: /case-studies
+                    - generic [ref=e344]: ›
+                    - generic [ref=e345]: Case Studies
+            - generic [ref=e346]:
+              - generic [ref=e347]:
+                - generic [ref=e348]: 📡
+                - generic [ref=e349]: Theo Dõi & Tin Tức
+                - generic [ref=e350]: "8"
+              - list [ref=e351]:
+                - listitem [ref=e352]:
+                  - link "› Visa Bulletin" [ref=e353] [cursor=pointer]:
+                    - /url: /visa-bulletin
+                    - generic [ref=e354]: ›
+                    - generic [ref=e355]: Visa Bulletin
+                - listitem [ref=e356]:
+                  - link "› Cách Đọc Visa Bulletin" [ref=e357] [cursor=pointer]:
+                    - /url: /visa-bulletin-guide
+                    - generic [ref=e358]: ›
+                    - generic [ref=e359]: Cách Đọc Visa Bulletin
+                - listitem [ref=e360]:
+                  - link "› PERM Tracker" [ref=e361] [cursor=pointer]:
+                    - /url: /perm-tracker
+                    - generic [ref=e362]: ›
+                    - generic [ref=e363]: PERM Tracker
+                - listitem [ref=e364]:
+                  - link "› Theo Dõi I-485" [ref=e365] [cursor=pointer]:
+                    - /url: /tracker
+                    - generic [ref=e366]: ›
+                    - generic [ref=e367]: Theo Dõi I-485
+                - listitem [ref=e368]:
+                  - link "› Tin Tức Chính Sách" [ref=e369] [cursor=pointer]:
+                    - /url: /news
+                    - generic [ref=e370]: ›
+                    - generic [ref=e371]: Tin Tức Chính Sách
+                  - generic [ref=e372]:
+                    - link "Chính Sách EB-3" [ref=e373] [cursor=pointer]:
+                      - /url: /news
+                    - link "Pháp Luật" [ref=e374] [cursor=pointer]:
+                      - /url: /news
+                    - link "USCIS & DOL" [ref=e375] [cursor=pointer]:
+                      - /url: /news
+                - listitem [ref=e376]:
+                  - link "› Timeline Ước Tính" [ref=e377] [cursor=pointer]:
+                    - /url: /timeline-estimator
+                    - generic [ref=e378]: ›
+                    - generic [ref=e379]: Timeline Ước Tính
+                - listitem [ref=e380]:
+                  - link "› FAQ" [ref=e381] [cursor=pointer]:
+                    - /url: /faq
+                    - generic [ref=e382]: ›
+                    - generic [ref=e383]: FAQ
+                - listitem [ref=e384]:
+                  - link "› Thuật Ngữ" [ref=e385] [cursor=pointer]:
+                    - /url: /glossary
+                    - generic [ref=e386]: ›
+                    - generic [ref=e387]: Thuật Ngữ
+            - generic [ref=e388]:
+              - generic [ref=e389]:
+                - generic [ref=e390]: 🇺🇸
+                - generic [ref=e391]: Mới Đến Mỹ
+                - generic [ref=e392]: "15"
+              - list [ref=e393]:
+                - listitem [ref=e394]:
+                  - link "› Sau Khi Đến Mỹ" [ref=e395] [cursor=pointer]:
+                    - /url: /after-arrival
+                    - generic [ref=e396]: ›
+                    - generic [ref=e397]: Sau Khi Đến Mỹ
+                - listitem [ref=e398]:
+                  - link "› Đăng Ký SSN" [ref=e399] [cursor=pointer]:
+                    - /url: /ssn-guide
+                    - generic [ref=e400]: ›
+                    - generic [ref=e401]: Đăng Ký SSN
+                - listitem [ref=e402]:
+                  - link "› Dịch Vụ Thiết Yếu" [ref=e403] [cursor=pointer]:
+                    - /url: /essentials
+                    - generic [ref=e404]: ›
+                    - generic [ref=e405]: Dịch Vụ Thiết Yếu
+                  - generic [ref=e406]:
+                    - link "Điện Thoại" [ref=e407] [cursor=pointer]:
+                      - /url: /essentials
+                    - link "Xe & Đi Lại" [ref=e408] [cursor=pointer]:
+                      - /url: /essentials
+                    - link "Mua Sắm" [ref=e409] [cursor=pointer]:
+                      - /url: /essentials
+                    - link "+1 nữa" [ref=e410] [cursor=pointer]:
+                      - /url: /essentials
+                - listitem [ref=e411]:
+                  - link "› Thuê Nhà & Quyền" [ref=e412] [cursor=pointer]:
+                    - /url: /housing-rights
+                    - generic [ref=e413]: ›
+                    - generic [ref=e414]: Thuê Nhà & Quyền
+                  - generic [ref=e415]:
+                    - link "Thuê Nhà ITIN" [ref=e416] [cursor=pointer]:
+                      - /url: /housing-rights
+                    - link "Hợp Đồng" [ref=e417] [cursor=pointer]:
+                      - /url: /housing-rights
+                    - link "Quyền Theo Bang" [ref=e418] [cursor=pointer]:
+                      - /url: /housing-rights
+                    - link "+1 nữa" [ref=e419] [cursor=pointer]:
+                      - /url: /housing-rights
+                - listitem [ref=e420]:
+                  - link "› Y Tế & Bảo Hiểm" [ref=e421] [cursor=pointer]:
+                    - /url: /healthcare
+                    - generic [ref=e422]: ›
+                    - generic [ref=e423]: Y Tế & Bảo Hiểm
+                  - generic [ref=e424]:
+                    - link "Bảo Hiểm" [ref=e425] [cursor=pointer]:
+                      - /url: /healthcare
+                    - link "Medicaid" [ref=e426] [cursor=pointer]:
+                      - /url: /healthcare
+                    - link "Bác Sĩ" [ref=e427] [cursor=pointer]:
+                      - /url: /healthcare
+                    - link "+2 nữa" [ref=e428] [cursor=pointer]:
+                      - /url: /healthcare
+                - listitem [ref=e429]:
+                  - link "› ACA & Medicaid" [ref=e430] [cursor=pointer]:
+                    - /url: /aca-medicaid-guide
+                    - generic [ref=e431]: ›
+                    - generic [ref=e432]: ACA & Medicaid
+                  - generic [ref=e433]:
+                    - link "ACA Marketplace" [ref=e434] [cursor=pointer]:
+                      - /url: /aca-medicaid-guide
+                    - link "Medicaid/CHIP" [ref=e435] [cursor=pointer]:
+                      - /url: /aca-medicaid-guide
+                    - link "Public Charge" [ref=e436] [cursor=pointer]:
+                      - /url: /aca-medicaid-guide
+                    - link "+1 nữa" [ref=e437] [cursor=pointer]:
+                      - /url: /aca-medicaid-guide
+                - listitem [ref=e438]:
+                  - link "› Medicaid Theo Tiểu Bang" [ref=e439] [cursor=pointer]:
+                    - /url: /state-medicaid-guide
+                    - generic [ref=e440]: ›
+                    - generic [ref=e441]: Medicaid Theo Tiểu Bang
+                - listitem [ref=e442]:
+                  - link "› Trường Học" [ref=e443] [cursor=pointer]:
+                    - /url: /school-enrollment-guide
+                    - generic [ref=e444]: ›
+                    - generic [ref=e445]: Trường Học
+                  - generic [ref=e446]:
+                    - link "Giấy Tờ" [ref=e447] [cursor=pointer]:
+                      - /url: /school-enrollment-guide
+                    - link "Tuổi & Lớp" [ref=e448] [cursor=pointer]:
+                      - /url: /school-enrollment-guide
+                    - link "Hỗ Trợ ESL" [ref=e449] [cursor=pointer]:
+                      - /url: /school-enrollment-guide
+                    - link "+1 nữa" [ref=e450] [cursor=pointer]:
+                      - /url: /school-enrollment-guide
+                - listitem [ref=e451]:
+                  - link "› Khẩn Cấp" [ref=e452] [cursor=pointer]:
+                    - /url: /emergency-guide
+                    - generic [ref=e453]: ›
+                    - generic [ref=e454]: Khẩn Cấp
+                  - generic [ref=e455]:
+                    - link "Cảnh Sát" [ref=e456] [cursor=pointer]:
+                      - /url: /emergency-guide
+                    - link "Bệnh Viện" [ref=e457] [cursor=pointer]:
+                      - /url: /emergency-guide
+                    - link "Gọi 911" [ref=e458] [cursor=pointer]:
+                      - /url: /emergency-guide
+                    - link "+1 nữa" [ref=e459] [cursor=pointer]:
+                      - /url: /emergency-guide
+                - listitem [ref=e460]:
+                  - link "› Cảnh Báo Lừa Đảo" [ref=e461] [cursor=pointer]:
+                    - /url: /scam-warning
+                    - generic [ref=e462]: ›
+                    - generic [ref=e463]: Cảnh Báo Lừa Đảo
+                - listitem [ref=e464]:
+                  - link "› Mở Tài Khoản Ngân Hàng" [ref=e465] [cursor=pointer]:
+                    - /url: /banking-guide
+                    - generic [ref=e466]: ›
+                    - generic [ref=e467]: Mở Tài Khoản Ngân Hàng
+                - listitem [ref=e468]:
+                  - link "› Mua Xe & Bảo Hiểm" [ref=e469] [cursor=pointer]:
+                    - /url: /car-guide
+                    - generic [ref=e470]: ›
+                    - generic [ref=e471]: Mua Xe & Bảo Hiểm
+                - listitem [ref=e472]:
+                  - link "› An Toàn Trên Đường" [ref=e473] [cursor=pointer]:
+                    - /url: /driving-safety-guide
+                    - generic [ref=e474]: ›
+                    - generic [ref=e475]: An Toàn Trên Đường
+                - listitem [ref=e476]:
+                  - link "› Public Charge & Trợ Cấp" [ref=e477] [cursor=pointer]:
+                    - /url: /public-charge-guide
+                    - generic [ref=e478]: ›
+                    - generic [ref=e479]: Public Charge & Trợ Cấp
+                - listitem [ref=e480]:
+                  - link "› Cộng Đồng & Tâm Lý" [ref=e481] [cursor=pointer]:
+                    - /url: /community-guide
+                    - generic [ref=e482]: ›
+                    - generic [ref=e483]: Cộng Đồng & Tâm Lý
+            - generic [ref=e484]:
+              - generic [ref=e485]:
+                - generic [ref=e486]: 💰
+                - generic [ref=e487]: Tài Chính
+                - generic [ref=e488]: "13"
+              - list [ref=e489]:
+                - listitem [ref=e490]:
+                  - link "› Tổng Quan Tài Chính" [ref=e491] [cursor=pointer]:
+                    - /url: /finance
+                    - generic [ref=e492]: ›
+                    - generic [ref=e493]: Tổng Quan Tài Chính
+                  - generic [ref=e494]:
+                    - link "Ngân Hàng" [ref=e495] [cursor=pointer]:
+                      - /url: /finance
+                    - link "Xây Credit" [ref=e496] [cursor=pointer]:
+                      - /url: /finance
+                    - link "Gửi Tiền VN" [ref=e497] [cursor=pointer]:
+                      - /url: /finance
+                    - link "+2 nữa" [ref=e498] [cursor=pointer]:
+                      - /url: /finance
+                - listitem [ref=e499]:
+                  - link "› Lộ Trình Tài Chính" [ref=e500] [cursor=pointer]:
+                    - /url: /finance-roadmap
+                    - generic [ref=e501]: ›
+                    - generic [ref=e502]: Lộ Trình Tài Chính
+                - listitem [ref=e503]:
+                  - link "› Tính Lương Net" [ref=e504] [cursor=pointer]:
+                    - /url: /net-pay
+                    - generic [ref=e505]: ›
+                    - generic [ref=e506]: Tính Lương Net
+                - listitem [ref=e507]:
+                  - link "› Khai Thuế" [ref=e508] [cursor=pointer]:
+                    - /url: /tax-guide
+                    - generic [ref=e509]: ›
+                    - generic [ref=e510]: Khai Thuế
+                - listitem [ref=e511]:
+                  - link "› Thuế Năm Đầu (Dual-Status)" [ref=e512] [cursor=pointer]:
+                    - /url: /tax-first-year
+                    - generic [ref=e513]: ›
+                    - generic [ref=e514]: Thuế Năm Đầu (Dual-Status)
+                - listitem [ref=e515]:
+                  - link "› Gửi Tiền Về VN" [ref=e516] [cursor=pointer]:
+                    - /url: /remittance-guide
+                    - generic [ref=e517]: ›
+                    - generic [ref=e518]: Gửi Tiền Về VN
+                - listitem [ref=e519]:
+                  - link "› Xây Dựng Credit" [ref=e520] [cursor=pointer]:
+                    - /url: /credit-building
+                    - generic [ref=e521]: ›
+                    - generic [ref=e522]: Xây Dựng Credit
+                - listitem [ref=e523]:
+                  - link "› Chi Phí Sinh Hoạt" [ref=e524] [cursor=pointer]:
+                    - /url: /cost-calculator
+                    - generic [ref=e525]: ›
+                    - generic [ref=e526]: Chi Phí Sinh Hoạt
+                - listitem [ref=e527]:
+                  - link "› Bảng Lương Theo Ngành" [ref=e528] [cursor=pointer]:
+                    - /url: /salary-guide
+                    - generic [ref=e529]: ›
+                    - generic [ref=e530]: Bảng Lương Theo Ngành
+                - listitem [ref=e531]:
+                  - link "› Tính Tiết Kiệm" [ref=e532] [cursor=pointer]:
+                    - /url: /savings-projector
+                    - generic [ref=e533]: ›
+                    - generic [ref=e534]: Tính Tiết Kiệm
+                - listitem [ref=e535]:
+                  - link "› Quyền Lao Động" [ref=e536] [cursor=pointer]:
+                    - /url: /worker-rights
+                    - generic [ref=e537]: ›
+                    - generic [ref=e538]: Quyền Lao Động
+                - listitem [ref=e539]:
+                  - link "› Overtime & Chống Gian Lương" [ref=e540] [cursor=pointer]:
+                    - /url: /overtime-guide
+                    - generic [ref=e541]: ›
+                    - generic [ref=e542]: Overtime & Chống Gian Lương
+                - listitem [ref=e543]:
+                  - link "› Phát Triển Nghề Nghiệp" [ref=e544] [cursor=pointer]:
+                    - /url: /career-guide
+                    - generic [ref=e545]: ›
+                    - generic [ref=e546]: Phát Triển Nghề Nghiệp
+            - generic [ref=e547]:
+              - generic [ref=e548]:
+                - generic [ref=e549]: 🟢
+                - generic [ref=e550]: Thẻ Xanh & Quốc Tịch
+                - generic [ref=e551]: "9"
+              - list [ref=e552]:
+                - listitem [ref=e553]:
+                  - link "› Cuộc Sống Thẻ Xanh" [ref=e554] [cursor=pointer]:
+                    - /url: /green-card-life
+                    - generic [ref=e555]: ›
+                    - generic [ref=e556]: Cuộc Sống Thẻ Xanh
+                  - generic [ref=e557]:
+                    - link "Quyền & Tự Do" [ref=e558] [cursor=pointer]:
+                      - /url: /green-card-life
+                    - link "Phúc Lợi LB" [ref=e559] [cursor=pointer]:
+                      - /url: /green-card-life
+                    - link "Du Lịch" [ref=e560] [cursor=pointer]:
+                      - /url: /green-card-life
+                    - link "+1 nữa" [ref=e561] [cursor=pointer]:
+                      - /url: /green-card-life
+                - listitem [ref=e562]:
+                  - link "› Du Lịch Với Thẻ Xanh" [ref=e563] [cursor=pointer]:
+                    - /url: /gc-travel-guide
+                    - generic [ref=e564]: ›
+                    - generic [ref=e565]: Du Lịch Với Thẻ Xanh
+                - listitem [ref=e566]:
+                  - link "› Du Lịch — I-131 AP" [ref=e567] [cursor=pointer]:
+                    - /url: /advance-parole
+                    - generic [ref=e568]: ›
+                    - generic [ref=e569]: Du Lịch — I-131 AP
+                - listitem [ref=e570]:
+                  - link "› Gia Hạn EAD & Thẻ Xanh" [ref=e571] [cursor=pointer]:
+                    - /url: /renewal-guide
+                    - generic [ref=e572]: ›
+                    - generic [ref=e573]: Gia Hạn EAD & Thẻ Xanh
+                - listitem [ref=e574]:
+                  - link "› Bảo Lãnh Gia Đình" [ref=e575] [cursor=pointer]:
+                    - /url: /family-petition
+                    - generic [ref=e576]: ›
+                    - generic [ref=e577]: Bảo Lãnh Gia Đình
+                  - generic [ref=e578]:
+                    - link "Đi Cùng" [ref=e579] [cursor=pointer]:
+                      - /url: /family-petition
+                    - link "Bảo Lãnh I-130" [ref=e580] [cursor=pointer]:
+                      - /url: /family-petition
+                    - link "Quy Trình & Phí" [ref=e581] [cursor=pointer]:
+                      - /url: /family-petition
+                    - link "+1 nữa" [ref=e582] [cursor=pointer]:
+                      - /url: /family-petition
+                - listitem [ref=e583]:
+                  - link "› I-864 Bảo Trợ Tài Chính" [ref=e584] [cursor=pointer]:
+                    - /url: /i864-guide
+                    - generic [ref=e585]: ›
+                    - generic [ref=e586]: I-864 Bảo Trợ Tài Chính
+                - listitem [ref=e587]:
+                  - link "› CSPA — Bảo Vệ Tuổi Con" [ref=e588] [cursor=pointer]:
+                    - /url: /cspa-guide
+                    - generic [ref=e589]: ›
+                    - generic [ref=e590]: CSPA — Bảo Vệ Tuổi Con
+                - listitem [ref=e591]:
+                  - link "› Con Đường Nhập Tịch" [ref=e592] [cursor=pointer]:
+                    - /url: /citizenship-path
+                    - generic [ref=e593]: ›
+                    - generic [ref=e594]: Con Đường Nhập Tịch
+                  - generic [ref=e595]:
+                    - link "Điều Kiện" [ref=e596] [cursor=pointer]:
+                      - /url: /citizenship-path
+                    - link "Quy Trình N-400" [ref=e597] [cursor=pointer]:
+                      - /url: /citizenship-path
+                    - link "Civics Test" [ref=e598] [cursor=pointer]:
+                      - /url: /citizenship-path
+                    - link "+1 nữa" [ref=e599] [cursor=pointer]:
+                      - /url: /citizenship-path
+                - listitem [ref=e600]:
+                  - link "› Văn Hóa Mỹ" [ref=e601] [cursor=pointer]:
+                    - /url: /van-hoa-my
+                    - generic [ref=e602]: ›
+                    - generic [ref=e603]: Văn Hóa Mỹ
+                  - generic [ref=e604]:
+                    - link "Giao Tiếp" [ref=e605] [cursor=pointer]:
+                      - /url: /van-hoa-my
+                    - link "Công Việc" [ref=e606] [cursor=pointer]:
+                      - /url: /van-hoa-my
+                    - link "Học Đường" [ref=e607] [cursor=pointer]:
+                      - /url: /van-hoa-my
+                    - link "+1 nữa" [ref=e608] [cursor=pointer]:
+                      - /url: /van-hoa-my
+            - generic [ref=e609]:
+              - generic [ref=e610]:
+                - generic [ref=e611]: 🚗
+                - generic [ref=e612]: Bằng Lái Xe
+                - generic [ref=e613]: "1"
+              - list [ref=e614]:
+                - listitem [ref=e615]:
+                  - link "› Ôn Thi Bằng Lái (19 Bang)" [ref=e616] [cursor=pointer]:
+                    - /url: /dmv
+                    - generic [ref=e617]: ›
+                    - generic [ref=e618]: Ôn Thi Bằng Lái (19 Bang)
+                  - generic [ref=e619]:
+                    - link "19 Tiểu Bang" [ref=e620] [cursor=pointer]:
+                      - /url: /dmv
+                    - link "Lọc EB3" [ref=e621] [cursor=pointer]:
+                      - /url: /dmv
+                    - link "Lọc Thuế TN" [ref=e622] [cursor=pointer]:
+                      - /url: /dmv
+                    - link "+1 nữa" [ref=e623] [cursor=pointer]:
+                      - /url: /dmv
+        - generic [ref=e624]:
+          - generic [ref=e625]:
+            - generic [ref=e626]:
+              - generic [ref=e627]:
+                - generic [ref=e628]: 📰
+                - generic [ref=e629]: Tin Tức Mới Nhất
+              - link "Xem tất cả →" [ref=e630] [cursor=pointer]:
+                - /url: /news
+            - list [ref=e631]:
+              - listitem [ref=e632]:
+                - generic [ref=e633]: DOL
+                - generic [ref=e634]:
+                  - link "United States Seeks Mexico’s Review of Alleged Denial of Workers’ Rights at Yokohama Tire Manufacturing Mexico, S.A. de C.V." [ref=e635] [cursor=pointer]:
+                    - /url: http://www.dol.gov/newsroom/releases/ilab/ilab20260925
+                  - paragraph [ref=e636]: 25/09/2026
+              - listitem [ref=e637]:
+                - generic [ref=e638]: USCIS
+                - generic [ref=e639]:
+                  - link "Aliens Charged with Illegally Voting and Making False Statements While Applying for US Citizenship - USCIS (.gov)" [ref=e640] [cursor=pointer]:
+                    - /url: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNM0lacFVCYXk1ZDlWS0JDVXJuNEREZjJCVFVhbXVHMDJVLTBFbmZLbXp1ZVdRanJZVU9tN1g4TFUtamZiR25yMUctd3VVa2tVMG9tOFREbzN1Wlh5WHFMa2RKM2xPS3h1clYyc0x5cWZzQkVhMHJ6enNReDFYSGN6QlZjNFdMXzNBczRWVkQ3Yld4TDg2RzdtdTVnWXlQVkFhcFE0a2NUeklGOXJwbWFoZEZfcW93aVlaVVRyVVl3Zk51NWtDSHlKQWFBQ2RMR3BfNVhueHpDTTFqaTQ?oc=5
+                  - paragraph [ref=e641]: 25/09/2026
+              - listitem [ref=e642]:
+                - generic [ref=e643]: USCIS
+                - generic [ref=e644]:
+                  - link "Romanian Alien Admits Conspiring to Commit Marriage Fraud - USCIS (.gov)" [ref=e645] [cursor=pointer]:
+                    - /url: https://news.google.com/rss/articles/CBMipAFBVV95cUxPeEhaSGNVMWc0Ylg2b3NrNlVjZ0Q5dEdrSzVKSXlTUlpTcnUxdG82cWJ2T3NEZXV1LXJXbTdybWlGUnQ5bG01QjRuTGxLQm9NWGtMQVU2RXV1eUhjdnB1b25qVXFvTHNOdEN2cmgzTWxIdUtNaGF4RU1GZzktRVlPWGxKak9zRUVEdmc5bWxVMkdxU0xuSFQzcGxfdVFwWnVOTUh3Wg?oc=5
+                  - paragraph [ref=e646]: 25/09/2026
+              - listitem [ref=e647]:
+                - generic [ref=e648]: USCIS
+                - generic [ref=e649]:
+                  - link "Nigerian Alien Indicted for Illegally Voting - USCIS (.gov)" [ref=e650] [cursor=pointer]:
+                    - /url: https://news.google.com/rss/articles/CBMikwFBVV95cUxNMzZRcUprY1lacXhsZGRibHplakRPVUhGdHJlUElUWUFsQjlSOVNieUxSbXJ6NnNzTW85QW1MdVFVZVNkSWt4MGpSek1lemFWSndIRk5xd3l1RHcwZWFTSTZUYi1TcXJNTzJweG5MM3p3bnRKNHNieTFTNWh6aGJhV0JLSV9GeW1TdlRlQ3hjQTd1SDA?oc=5
+                  - paragraph [ref=e651]: 25/09/2026
+              - listitem [ref=e652]:
+                - generic [ref=e653]: justice.gov
+                - generic [ref=e654]:
+                  - link "Western District of Missouri | Vietnamese National Charged for Role in Massive “Pig Butchering” Cryptocurrency Scam - Department of Justice (.gov)" [ref=e655] [cursor=pointer]:
+                    - /url: https://news.google.com/rss/articles/CBMisgFBVV95cUxOU0lqc1RLR25JUURvVWQ5TnphMXNwc3k3NnJiNmp1UjJndV9xdjRJSFRKM1NfeFdPQ0VHM09Zd3hfaG52SmhwLXRpUkdIQ0IyeFlqTU96NjdyV3RaRjFiZjBFYUFURmJycHg0Z050X0NRcEU3UDBQbERHRXN1R0ZZVzdCQjdXSW0tM1lZMEpaY1RuSkFKS1dLZ2xYelZEMEVtWHZuRjdMX3JycDFXY1FDNTJ3?oc=5
+                  - paragraph [ref=e656]: 25/09/2026
+          - generic [ref=e657]:
+            - generic [ref=e658]:
+              - heading "🔗 Liên Kết Hữu Ích" [level=2] [ref=e659]
+              - generic [ref=e660]: Nguồn chính phủ Mỹ
+            - generic [ref=e661]:
+              - link [ref=e662] [cursor=pointer]:
+                - /url: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html
+                - generic [aria-hidden] [ref=e663]: 📅
+                - generic [ref=e664]:
+                  - paragraph [ref=e665]: Visa Bulletin
+                  - paragraph [ref=e666]: travel.state.gov
+                  - paragraph [ref=e667]: Lịch Visa Bulletin chính thức hàng tháng
+              - link [ref=e668] [cursor=pointer]:
+                - /url: https://flag.dol.gov/case-status-search
+                - generic [aria-hidden] [ref=e669]: 🔍
+                - generic [ref=e670]:
+                  - paragraph [ref=e671]: Check LC Status
+                  - paragraph [ref=e672]: flag.dol.gov
+                  - paragraph [ref=e673]: Tra cứu tình trạng hồ sơ LC/PERM
+              - link [ref=e674] [cursor=pointer]:
+                - /url: https://egov.uscis.gov/
+                - generic [aria-hidden] [ref=e675]: 📋
+                - generic [ref=e676]:
+                  - paragraph [ref=e677]: USCIS Case Status
+                  - paragraph [ref=e678]: egov.uscis.gov
+                  - paragraph [ref=e679]: Tra cứu I-140 sau khi có receipt number
+              - link [ref=e680] [cursor=pointer]:
+                - /url: https://flag.dol.gov/processingtimes
+                - generic [aria-hidden] [ref=e681]: ⏱
+                - generic [ref=e682]:
+                  - paragraph [ref=e683]: DOL Processing Times
+                  - paragraph [ref=e684]: flag.dol.gov
+                  - paragraph [ref=e685]: Thời gian xử lý LC/PERM hiện tại
+              - link [ref=e686] [cursor=pointer]:
+                - /url: https://permtimeline.com/
+                - generic [aria-hidden] [ref=e687]: 📊
+                - generic [ref=e688]:
+                  - paragraph [ref=e689]: PERM Timeline Tracker
+                  - paragraph [ref=e690]: permtimeline.com
+                  - paragraph [ref=e691]: Theo dõi tiến độ duyệt PERM hàng ngày
+              - link [ref=e692] [cursor=pointer]:
+                - /url: https://ceac.state.gov/IV/Login.aspx
+                - generic [aria-hidden] [ref=e693]: 🏛️
+                - generic [ref=e694]:
+                  - paragraph [ref=e695]: CEAC / DS-260
+                  - paragraph [ref=e696]: ceac.state.gov
+                  - paragraph [ref=e697]: Điền và theo dõi đơn DS-260 NVC
+              - link [ref=e698] [cursor=pointer]:
+                - /url: https://egov.uscis.gov/processing-times/
+                - generic [aria-hidden] [ref=e699]: 🕒
+                - generic [ref=e700]:
+                  - paragraph [ref=e701]: USCIS Processing Times
+                  - paragraph [ref=e702]: egov.uscis.gov
+                  - paragraph [ref=e703]: Thời gian xử lý I-140 theo Service Center
+              - link [ref=e704] [cursor=pointer]:
+                - /url: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-statistics/immigrant-visa-statistics/monthly-immigrant-visa-issuances.html
+                - generic [aria-hidden] [ref=e705]: 📈
+                - generic [ref=e706]:
+                  - paragraph [ref=e707]: Visa Issuance Statistics
+                  - paragraph [ref=e708]: travel.state.gov
+                  - paragraph [ref=e709]: Báo cáo visa EW được cấp hàng tháng
+      - generic [ref=e711]:
+        - paragraph [ref=e712]: © EB3VIET — Thông tin miễn phí cho cộng đồng người Việt EB-3
+        - link "💙 Ủng hộ tác giả qua PayPal" [ref=e713] [cursor=pointer]:
+          - /url: https://www.paypal.com/ncp/payment/745UHBNRA4MHC
+          - generic [ref=e714]: 💙
+          - generic [ref=e715]: Ủng hộ tác giả qua PayPal
+  - alert [ref=e716]
+  - generic [aria-hidden] [ref=e717]: Jul-27

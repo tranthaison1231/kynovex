@@ -1,0 +1,7 @@
+[    1258ms] [WARNING] The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width. @ https://eb3viet.com/_next/static/chunks/4957-29449110a14662c0.js:0
+[    1938ms] [WARNING] AdSense head tag doesn't support data-nscript attribute. @ https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7593939544196063:308
+[    1942ms] W
+[    2142ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://eb3viet.com/favicon.ico:0

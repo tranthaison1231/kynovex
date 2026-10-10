@@ -1,0 +1,415 @@
+- generic [ref=e2]:
+  - link "Skip to content" [ref=e3] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link "VinKaTech Software" [ref=e6] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e10]:
+          - text: VinKaTech
+          - generic [ref=e11]: SOFTWARE
+      - navigation "Main navigation" [ref=e12]:
+        - link "Products" [ref=e13] [cursor=pointer]:
+          - /url: "#products"
+        - link "Services" [ref=e14] [cursor=pointer]:
+          - /url: "#services"
+        - link "About us" [ref=e15] [cursor=pointer]:
+          - /url: "#about"
+        - link "Contact" [ref=e16] [cursor=pointer]:
+          - /url: "#contact"
+      - generic [ref=e17]:
+        - generic "Select language" [ref=e18]:
+          - button "EN" [pressed] [ref=e22] [cursor=pointer]
+          - generic [ref=e23]: /
+          - button "VI" [ref=e24] [cursor=pointer]
+        - button "Let's talk" [ref=e25] [cursor=pointer]
+  - main [ref=e28]:
+    - generic [ref=e29]:
+      - generic [ref=e30]:
+        - generic [ref=e31]: A SOFTWARE COMPANY WITH A HUMAN SIDE
+        - heading [level=1] [ref=e33]:
+          - text: Thoughtful software.
+          - generic [ref=e34]: Real-world impact.
+        - paragraph [ref=e37]: Bringing excellent software solutions to everyone. We build intuitive websites, systems, and mobile apps — with care, for the way people really live and work.
+        - generic [ref=e38]:
+          - link "Explore our products" [ref=e39] [cursor=pointer]:
+            - /url: "#products"
+          - link "What we do" [ref=e42] [cursor=pointer]:
+            - /url: "#services"
+        - generic [ref=e45]: From the first idea to your everyday essential.
+      - img "Web, Mobile, Systems, Artificial Intelligence, and Cloud technologies, connected in one illustration" [ref=e47]:
+        - generic [ref=e51]:
+          - generic [ref=e52]: +
+          - text: Ideas, connected.
+        - generic [ref=e76]:
+          - text: Web
+          - generic [ref=e77]: Limitless possibilities
+        - generic [ref=e88]:
+          - text: Artificial Intelligence
+          - generic [ref=e89]: Ideas into insight
+        - generic [ref=e96]:
+          - text: Mobile
+          - generic [ref=e97]: Everyday, everywhere
+        - generic [ref=e105]:
+          - text: Systems
+          - generic [ref=e106]: Everything in sync
+        - generic [ref=e112]:
+          - text: Cloud
+          - generic [ref=e113]: Anywhere, on demand
+        - generic [ref=e115]:
+          - text: Designed for real life
+          - generic [ref=e117]: ↗
+    - generic [ref=e118]:
+      - generic [ref=e119]: GOOD IDEAS. GREAT EXECUTION.
+      - generic [ref=e120]:
+        - generic [ref=e121]: User-first design
+        - generic [ref=e124]: Thoughtful engineering
+        - generic [ref=e127]: Web & mobile
+        - generic [ref=e130]: Built to grow
+    - generic [ref=e134]:
+      - generic [ref=e135]:
+        - generic [ref=e136]:
+          - paragraph [ref=e137]: 01 / OUR PRODUCTS
+          - heading "Small ideas. Powerful everyday tools." [level=2] [ref=e138]: Small ideas.Powerful everyday tools.
+        - paragraph [ref=e139]: Software that makes a little more room for life. Meet the products we build to simplify the everyday.
+      - generic [ref=e140]:
+        - group "Filter products" [ref=e141]:
+          - button "All products 5" [pressed] [ref=e142] [cursor=pointer]:
+            - text: All products
+            - generic [ref=e143]: "5"
+          - button "Mobile apps" [ref=e144] [cursor=pointer]
+          - button "Web platforms" [ref=e145] [cursor=pointer]
+        - generic [ref=e146]:
+          - button "Pause animations" [ref=e147] [cursor=pointer]
+          - generic [ref=e150]: 05 PRODUCTS
+      - generic [ref=e152]:
+        - link "Trip & Fun — Explore app (opens in a new tab)" [ref=e153] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.vinkatech.splitmoney&hl=en
+          - generic [aria-hidden] [ref=e154]:
+            - generic [ref=e155]: +
+            - generic [ref=e156]: +
+            - generic [ref=e157]: good trips.great friends.
+            - generic [ref=e159]:
+              - generic [ref=e160]:
+                - generic [ref=e162]:
+                  - text: Da Lat getaway
+                  - generic [ref=e163]: 4 friends · 3 days
+                - generic [ref=e164]: ···
+              - generic [ref=e165]:
+                - generic [ref=e166]: Total trip expenses
+                - strong [ref=e167]: 2,450,000 ₫
+              - generic [ref=e168]:
+                - generic [ref=e169]: ☕
+                - generic [ref=e170]:
+                  - text: Coffee & good company
+                  - generic [ref=e171]: Paid by Minh
+                - generic [ref=e172]: 180,000 ₫
+              - generic [ref=e173]:
+                - generic [ref=e174]: M
+                - generic [ref=e175]: L
+                - generic [ref=e176]: A
+                - generic [ref=e177]: H
+                - generic [ref=e178]: Split fairly. Travel happily.
+            - generic [ref=e179]: All settled up!
+            - generic [ref=e183]: ILLUSTRATIVE INTERFACE
+          - generic [ref=e184]:
+            - generic [ref=e187]:
+              - generic [ref=e188]: GROUP EXPENSES
+              - heading "Trip & Fun" [level=3] [ref=e189]
+            - paragraph [ref=e193]: More memories. Less math. Split group expenses, track shared spending, and settle up without the awkward conversations.
+            - generic [ref=e194]:
+              - generic [ref=e195]:
+                - generic [ref=e196]: Finance
+                - generic [ref=e197]: Travel
+              - generic [ref=e198]: Android
+        - link "Vupdate — Visit website (opens in a new tab)" [ref=e202] [cursor=pointer]:
+          - /url: https://phantichtramsac.com/
+          - generic [aria-hidden] [ref=e203]:
+            - generic [ref=e204]: +
+            - generic [ref=e205]: +
+            - generic [ref=e206]:
+              - generic [ref=e207]:
+                - generic [ref=e209]:
+                  - text: Vup
+                  - generic [ref=e210]: Station overview
+                - generic [ref=e211]: Live
+              - generic [ref=e213]:
+                - generic [ref=e214]:
+                  - generic [ref=e215]: Energy delivered
+                  - strong [ref=e216]: 1,284 kWh
+                - generic [ref=e217]:
+                  - generic [ref=e218]: Charging sessions
+                  - strong [ref=e219]: 156 ↗ 12%
+              - generic [ref=e220]:
+                - text: Charging activity
+                - generic [ref=e221]: Last 7 days
+              - generic [ref=e225]:
+                - generic [ref=e226]: Mon
+                - generic [ref=e227]: Tue
+                - generic [ref=e228]: Wed
+                - generic [ref=e229]: Thu
+                - generic [ref=e230]: Fri
+                - generic [ref=e231]: Sat
+                - generic [ref=e232]: Sun
+            - generic [ref=e233]: Powering a connected future.
+            - generic [ref=e237]: ILLUSTRATIVE INTERFACE
+          - generic [ref=e238]:
+            - generic [ref=e241]:
+              - generic [ref=e242]: EV CHARGING PLATFORM
+              - heading "Vupdate / Vup" [level=3] [ref=e243]
+            - paragraph [ref=e247]: A clearer view of your charging network. Monitor revenue, charging sessions, and station performance in one connected platform.
+            - generic [ref=e248]:
+              - generic [ref=e249]:
+                - generic [ref=e250]: EV & Energy
+                - generic [ref=e251]: Analytics
+              - generic [ref=e252]: Web
+        - link "AtWork — Explore app (opens in a new tab)" [ref=e256] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.vinkatech.timekeeping&hl=en
+          - generic [aria-hidden] [ref=e257]:
+            - generic [ref=e258]: +
+            - generic [ref=e259]: +
+            - generic [ref=e260]:
+              - generic [ref=e263]:
+                - text: A good day at work.
+                - generic [ref=e264]: Your team, in sync.
+              - generic [ref=e265]:
+                - text: October, 2026
+                - generic [ref=e266]: ‹ ›
+              - generic [ref=e267]:
+                - generic [ref=e268]: M
+                - generic [ref=e269]: T
+                - generic [ref=e270]: W
+                - generic [ref=e271]: T
+                - generic [ref=e272]: F
+                - generic [ref=e273]: S
+                - generic [ref=e274]: S
+                - generic [ref=e275]: "1"
+                - generic [ref=e276]: "2"
+                - generic [ref=e277]: "3"
+                - generic [ref=e278]: "4"
+                - generic [ref=e279]: "5"
+                - generic [ref=e280]: "6"
+                - generic [ref=e281]: "7"
+                - generic [ref=e282]: "8"
+                - generic [ref=e283]: "9"
+                - generic [ref=e284]: "10"
+                - generic [ref=e285]: "11"
+                - generic [ref=e286]: "12"
+                - generic [ref=e287]: "13"
+                - generic [ref=e288]: "14"
+                - generic [ref=e289]: "15"
+                - generic [ref=e290]: "16"
+                - generic [ref=e291]: "17"
+                - generic [ref=e292]: "18"
+                - generic [ref=e293]: "19"
+                - generic [ref=e294]: "20"
+                - generic [ref=e295]: "21"
+              - generic [ref=e296]:
+                - text: You’re checked in today
+                - generic [ref=e298]: 08:30
+            - generic [ref=e299]: Ready for a great day
+            - generic [ref=e302]: ILLUSTRATIVE INTERFACE
+          - generic [ref=e303]:
+            - generic [ref=e306]:
+              - generic [ref=e307]: TIME & TEAM MANAGEMENT
+              - heading "AtWork" [level=3] [ref=e308]
+            - paragraph [ref=e312]: Less admin. More teamwork. Simplify attendance, manage shifts, and keep payroll organized for the way your team works.
+            - generic [ref=e313]:
+              - generic [ref=e314]:
+                - generic [ref=e315]: Productivity
+                - generic [ref=e316]: Business
+              - generic [ref=e317]: Android
+        - link "FastMoni — Explore app (opens in a new tab)" [ref=e321] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.bizfast.fastmoni&hl=en
+          - generic [aria-hidden] [ref=e322]:
+            - generic [ref=e323]: +
+            - generic [ref=e324]: +
+            - generic [ref=e327]:
+              - text: Your money.
+              - strong [ref=e328]: Your possibilities.
+            - generic [ref=e329]:
+              - generic [ref=e331]:
+                - text: Monthly budget
+                - generic [ref=e332]: A little clarity goes a long way
+              - generic [ref=e335]:
+                - generic [ref=e337]:
+                  - text: 68%
+                  - generic [ref=e338]: remaining
+                - generic [ref=e339]:
+                  - generic [ref=e340]:
+                    - text: Living
+                    - generic [ref=e342]: 20%
+                  - generic [ref=e343]:
+                    - text: Food
+                    - generic [ref=e345]: 8%
+                  - generic [ref=e346]:
+                    - text: Fun
+                    - generic [ref=e348]: 4%
+                  - generic [ref=e349]: Room for your goals
+            - generic [ref=e352]: ILLUSTRATIVE INTERFACE
+          - generic [ref=e353]:
+            - generic [ref=e356]:
+              - generic [ref=e357]: PERSONAL FINANCE
+              - heading "FastMoni" [level=3] [ref=e358]
+            - paragraph [ref=e362]: Make sense of your money. Track expenses, plan your budget, and turn your savings goals into everyday progress.
+            - generic [ref=e363]:
+              - generic [ref=e364]:
+                - generic [ref=e365]: Finance
+                - generic [ref=e366]: Lifestyle
+              - generic [ref=e367]: Android
+        - link "ClassFast — Explore app (opens in a new tab)" [ref=e371] [cursor=pointer]:
+          - /url: https://play.google.com/store/apps/details?id=com.bizfast.classfast&hl=en
+          - generic [aria-hidden] [ref=e372]:
+            - generic [ref=e373]: +
+            - generic [ref=e374]: +
+            - generic [ref=e377]:
+              - text: Less managing.
+              - strong [ref=e378]: More inspiring.
+            - generic [ref=e379]:
+              - generic [ref=e380]:
+                - generic [ref=e381]:
+                  - text: English class
+                  - generic [ref=e382]: Monday · 09:00 – 10:30
+                - generic [ref=e383]: Attendance
+              - generic [ref=e384]:
+                - generic [ref=e385]: A
+                - generic [ref=e386]:
+                  - text: Anh Nguyen
+                  - generic [ref=e387]: Student
+              - generic [ref=e391]:
+                - generic [ref=e392]: L
+                - generic [ref=e393]:
+                  - text: Linh Tran
+                  - generic [ref=e394]: Student
+              - generic [ref=e398]:
+                - generic [ref=e399]: M
+                - generic [ref=e400]:
+                  - text: Minh Le
+                  - generic [ref=e401]: Student
+            - generic [ref=e405]: ILLUSTRATIVE INTERFACE
+          - generic [ref=e406]:
+            - generic [ref=e409]:
+              - generic [ref=e410]: CLASSROOM MANAGEMENT
+              - heading "ClassFast" [level=3] [ref=e411]
+            - paragraph [ref=e415]: More teaching. Less paperwork. Bring attendance, tuition, and parent communication together in one simple app.
+            - generic [ref=e416]:
+              - generic [ref=e417]:
+                - generic [ref=e418]: Education
+                - generic [ref=e419]: Productivity
+              - generic [ref=e420]: Android
+      - paragraph [ref=e424]: Built by us. Made for your everyday.
+    - generic [ref=e428]:
+      - generic [ref=e429]:
+        - generic [ref=e430]:
+          - paragraph [ref=e431]: 02 / WHAT WE DO
+          - heading "Your vision. Our craft." [level=2] [ref=e432]: Your vision.Our craft.
+        - generic [ref=e433]:
+          - paragraph [ref=e434]: From a fresh idea to a fully realized product, we bring design and engineering together to build what comes next.
+          - button "Discuss your project" [ref=e435] [cursor=pointer]
+      - generic [ref=e438]:
+        - article [ref=e439]:
+          - generic [ref=e440]: "01"
+          - heading "Website development" [level=3] [ref=e446]
+          - paragraph [ref=e447]: Fast, responsive websites that tell your story and make every interaction count.
+          - generic [ref=e448]: Landing pages / Web applications
+        - article [ref=e449]:
+          - generic [ref=e450]: "02"
+          - heading "Business systems" [level=3] [ref=e458]
+          - paragraph [ref=e459]: Purpose-built platforms that connect your data, simplify operations, and grow with you.
+          - generic [ref=e460]: Dashboards / Custom software
+        - article [ref=e461]:
+          - generic [ref=e462]: "03"
+          - heading "Mobile applications" [level=3] [ref=e468]
+          - paragraph [ref=e469]: Intuitive apps that put a better experience in your users’ hands, wherever they are.
+          - generic [ref=e470]: Android / iOS / Cross-platform
+    - generic [ref=e471]:
+      - generic [ref=e472]:
+        - paragraph [ref=e473]: OUR VISION
+        - paragraph [ref=e474]: Bringing excellent software solutions to everyone.
+      - generic [ref=e475]:
+        - generic [ref=e476]:
+          - paragraph [ref=e477]: 03 / THE PEOPLE BEHIND THE CODE
+          - heading "Technology is our tool. People are our purpose." [level=2] [ref=e478]: Technology is our tool.People are our purpose.
+          - generic [ref=e482]:
+            - text: VinKaTech
+            - generic [ref=e483]: A little heart in every line of code.
+        - generic [ref=e484]:
+          - paragraph [ref=e485]: We’re VinKaTech Software — a team that believes the best technology doesn’t complicate life. It makes it better.
+          - paragraph [ref=e486]: We build our own products and partner with businesses to bring their ideas to life. With curiosity, a hands-on mindset, and an eye for the details, we create software that feels as good as it works.
+          - generic [ref=e487]:
+            - generic [ref=e488]:
+              - generic [ref=e489]: "01"
+              - generic [ref=e490]:
+                - heading "Understand first" [level=3] [ref=e491]
+                - paragraph [ref=e492]: Start with real people and real problems.
+            - generic [ref=e495]:
+              - generic [ref=e496]: "02"
+              - generic [ref=e497]:
+                - heading "Build with intention" [level=3] [ref=e498]
+                - paragraph [ref=e499]: Keep it simple. Make every detail matter.
+            - generic [ref=e502]:
+              - generic [ref=e503]: "03"
+              - generic [ref=e504]:
+                - heading "Keep getting better" [level=3] [ref=e505]
+                - paragraph [ref=e506]: Listen, learn, and evolve alongside our users.
+      - generic [ref=e509]:
+        - generic [ref=e510]:
+          - strong [ref=e511]: 05+
+          - generic [ref=e512]: Products in the world
+        - generic [ref=e513]:
+          - strong [ref=e514]: 03/
+          - generic [ref=e515]: Core service areas
+        - generic [ref=e516]:
+          - strong [ref=e517]: 02/
+          - generic [ref=e518]: Languages, one vision
+        - generic [ref=e519]: Different solutions.One thoughtful approach.
+      - region [ref=e523]:
+        - generic [ref=e524]:
+          - generic [ref=e525]:
+            - paragraph [ref=e526]: ABOUT US / FOUNDING TEAM
+            - heading "Meet the people who started it all." [level=2] [ref=e527]
+          - paragraph [ref=e528]: Our founding team brings backend and mobile development together to bring excellent software solutions to everyone.
+        - generic [ref=e529]:
+          - article [ref=e530]:
+            - img "Khai Pham" [ref=e531]
+            - generic [ref=e532]:
+              - heading "Khai Pham" [level=3] [ref=e533]
+              - paragraph [ref=e534]: Founder & Backend Developer
+          - article [ref=e535]:
+            - img "Vien Tran" [ref=e536]
+            - generic [ref=e537]:
+              - heading "Vien Tran" [level=3] [ref=e538]
+              - paragraph [ref=e539]: Co-Founder & Senior Mobile Developer
+    - generic [ref=e541]:
+      - generic [ref=e542]:
+        - paragraph [ref=e543]: 04 / LET’S BUILD SOMETHING
+        - heading "Have an idea? Let’s make it real." [level=2] [ref=e545]: Have an idea?Let’s make it real.
+        - paragraph [ref=e546]: A new product, a better system, or just a spark of an idea. We’d love to hear what you’re thinking.
+      - generic [ref=e547]:
+        - button "Start a conversation" [ref=e548] [cursor=pointer]
+        - generic [ref=e551]: Or drop us a line
+        - link "khai.pham@vinkatech.com" [ref=e552] [cursor=pointer]:
+          - /url: mailto:khai.pham@vinkatech.com
+        - generic [ref=e555]:
+          - generic [ref=e556]: Address
+          - paragraph [ref=e557]: Da Nang, Vietnam
+          - generic [ref=e558]: Phone
+          - link "+84 398170606" [ref=e559] [cursor=pointer]:
+            - /url: tel:+84398170606
+  - contentinfo [ref=e565]:
+    - generic [ref=e566]:
+      - link "VinKaTech Software" [ref=e567] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=e571]:
+          - text: VinKaTech
+          - generic [ref=e572]: SOFTWARE
+      - paragraph [ref=e573]: Thoughtfully built. Purposefully simple.
+      - link "Back to top" [ref=e574] [cursor=pointer]:
+        - /url: "#top"
+    - generic [ref=e577]:
+      - generic [ref=e578]: © 2026 VinKaTech Software. All rights reserved.
+      - generic [ref=e579]: Made in Vietnam. Built for the world.
+      - generic [ref=e581]:
+        - button "English" [pressed] [ref=e582] [cursor=pointer]
+        - generic [ref=e583]: /
+        - button "Tiếng Việt" [ref=e584] [cursor=pointer]
